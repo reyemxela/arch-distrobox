@@ -1,0 +1,10 @@
+bat
+entr
+eza
+dnsutils
+ipython
+openbsd-netcat
+picocom
+socat
+tmux
+zsh
