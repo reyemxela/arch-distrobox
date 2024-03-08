@@ -7,4 +7,5 @@ openbsd-netcat
 picocom
 socat
 tmux
+vim
 zsh
