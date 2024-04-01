@@ -3,6 +3,7 @@ entr
 eza
 dnsutils
 ipython
+jq
 openbsd-netcat
 picocom
 socat
